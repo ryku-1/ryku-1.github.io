@@ -1,5 +1,5 @@
 title: ryku-sec # name of the site
-author: Riccardo Graziosi # name of site's author
+author: ryku # name of site's author
 email: ktaki647@gmail.com # email of site's author
 url: https://ryku-1.github.io # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog"
@@ -18,7 +18,7 @@ theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: "../" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 sass:
   style: :compressed
