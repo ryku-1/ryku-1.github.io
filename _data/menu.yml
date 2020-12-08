@@ -3,10 +3,10 @@
 
 entries:
 
- - title: recent...
+  - title: all posts
     post_list:
       limit: 5
       show_more: true
-      show_more_text: archive...
+      show_more_text: See archive...
       show_more_url: archive.html
 
