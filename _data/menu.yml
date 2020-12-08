@@ -7,6 +7,6 @@ entries:
     post_list:
       limit: 5
       
-      - title: archive
+  - title: archive
     url: https://ryku-1.github.io/archive.html
 
