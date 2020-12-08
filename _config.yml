@@ -1,9 +1,9 @@
-title: Hello Freind, im ryku # name of the site
+title: ryku-sec # name of the site
 author: Riccardo Graziosi # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
+email: ktaki647@gmail.com # email of site's author
 url: https://ryku-1.github.io # root address of the site
-baseurl: "/h4x" # subpath of the site, e.g. "/blog"
-description: 
+baseurl: "/" # subpath of the site, e.g. "/blog"
+description: Terminal Security
   
 
 permalink: /:slug.html
