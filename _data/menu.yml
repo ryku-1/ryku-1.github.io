@@ -6,7 +6,7 @@ entries:
   - title: recent
     post_list:
       limit: 5
-      show_more: true
-      show_more_text: archive
-      show_more_url: /archive.html
+      
+      - title: archive
+    url: https://ryku-1.github.io/archive.html
 
