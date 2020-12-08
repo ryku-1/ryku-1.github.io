@@ -3,7 +3,7 @@ author: ryku # name of site's author
 email: ktaki647@gmail.com # email of site's author
 url: https://ryku-1.github.io # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog"
-description: Terminal Security
+description: Hello, friend
   
 
 permalink: /:slug.html
